@@ -20,4 +20,7 @@ More importantly, I hope this repository can help you in your personal and profe
 - Predicted Humana members most likely resistant to the COVID vaccination using data provided by Humana with 367 features
 - Tools: Python/Google Colaboratory Notebook/Google Cloud Platform/SQL
 
-## Project 4: Drought Impact on Maple Syrup Production
+## [Project 4: Drought Impact on Maple Syrup Production](https://github.com/jrlemarr/Capstone_Project/blob/main/Team%20B4%20-%20Final%20Report.pdf)
+- This project aims to determine how maple syrup production in gallons is affected by drought and precipitation factors. Our primary focus will be on the Northeast region, precisely seven states, including Massachusetts, Maine, Vermont, New Hampshire, New York, Connecticut, and Pennsylvania. The New England region is well known for its maple syrup production, and hence we will delve deeper into that area. We will analyze variables such as the annual crop production of maple syrup and other parameters related to climate change.
+-Tools: Python/Google Colaboratory Notebook
+![Capstone-pic](https://user-images.githubusercontent.com/86937302/180023513-c8954744-7164-4c10-86d5-0fa0205de731.png)
