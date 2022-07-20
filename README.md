@@ -17,3 +17,7 @@ More importantly, I hope this repository can help you in your personal and profe
 <img width="468" alt="HR graph" src="https://user-images.githubusercontent.com/86937302/180020393-a4f08645-3ff4-4534-b301-343d361b519e.png">
 
 ## Project 3: Predicting Members Most Likely Resistant to the COVID Vaccination
+- Predicted Humana members most likely resistant to the COVID vaccination using data provided by Humana with 367 features
+- Tools: Python/Google Colaboratory Notebook/Google Cloud Platform/SQL
+
+## Project 4: Drought Impact on Maple Syrup Production
