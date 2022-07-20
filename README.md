@@ -11,9 +11,9 @@ More importantly, I hope this repository can help you in your personal and profe
 - Tools: SQL/Tableau/Google Cloud - Jupyter Notebook
 ![Dashboard 1](https://user-images.githubusercontent.com/86937302/180016841-a86ab694-2b65-47c5-8d8d-fbb532dbb5c6.png)
 
-## Project 2: [HR Analytics: Job Attrition in Data Scientists](https://github.com/jrlemarr/BA780_Project/blob/main/BA780%20Deliverable%20Finalization.pdf)
+## [Project 2: HR Analytics: Job Attrition in Data Scientists](https://github.com/jrlemarr/BA780_Project/blob/main/BA780%20Deliverable%20Finalization.pdf)
 - A company which is active in Big Data and Data Science wants to hire data scientists among people who received training. "Company" wants to analyze the factors affecting candiates' decision on staying or looking for a new job after training.
 - Tools: Python/Google Colaboratory Notebook
-
+<img width="468" alt="HR graph" src="https://user-images.githubusercontent.com/86937302/180020393-a4f08645-3ff4-4534-b301-343d361b519e.png">
 
 
