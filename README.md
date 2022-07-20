@@ -16,4 +16,4 @@ More importantly, I hope this repository can help you in your personal and profe
 - Tools: Python/Google Colaboratory Notebook
 <img width="468" alt="HR graph" src="https://user-images.githubusercontent.com/86937302/180020393-a4f08645-3ff4-4534-b301-343d361b519e.png">
 
-
+## Project 3: Predicting Members Most Likely Resistant to the COVID Vaccination
