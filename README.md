@@ -17,10 +17,16 @@ More importantly, I hope this repository can help you in your personal and profe
 <img width="468" alt="HR graph" src="https://user-images.githubusercontent.com/86937302/180020393-a4f08645-3ff4-4534-b301-343d361b519e.png">
 
 ## Project 3: Predicting Members Most Likely Resistant to the COVID Vaccination
-- Predicted Humana members most likely resistant to the COVID vaccination using data provided by Humana with 367 features
+- First we predicted Humana members most likely resistant to the COVID vaccination using data provided by Humana with 367 features. Then, we performed exploratory data analysis, data cleaning, and implemented LightGBM, Random Forest, and XGBoost models to predict hesitant members. Finally, we recommended targeted plans to drive vaccination among the sub-segments of hesitant members based on data insights. More detailed information regarding the project is confidential due to the nature of the company.
 - Tools: Python/Google Colaboratory Notebook/Google Cloud Platform/SQL
 
 ## [Project 4: Drought Impact on Maple Syrup Production](https://github.com/jrlemarr/Capstone_Project/blob/main/Team%20B4%20-%20Final%20Report.pdf)
 - This project aims to determine how maple syrup production in gallons is affected by drought and precipitation factors. Our primary focus will be on the Northeast region, precisely seven states, including Massachusetts, Maine, Vermont, New Hampshire, New York, Connecticut, and Pennsylvania. The New England region is well known for its maple syrup production, and hence we will delve deeper into that area. We will analyze variables such as the annual crop production of maple syrup and other parameters related to climate change.
 - Tools: Python/Google Colaboratory Notebook
 ![Capstone-pic](https://user-images.githubusercontent.com/86937302/180023513-c8954744-7164-4c10-86d5-0fa0205de731.png)
+
+## More Projects
+- Here is a [link](https://github.com/jrlemarr/Personal_Projects) of personal analytics-related projects I completed outside of school.
+Tools: Tableau/SQL/Google Colaboratory Notebook
+
+
