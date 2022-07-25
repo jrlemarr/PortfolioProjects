@@ -25,6 +25,10 @@ More importantly, I hope this repository can help you in your personal and profe
 - Tools: Python/Google Colaboratory Notebook
 ![Capstone-pic](https://user-images.githubusercontent.com/86937302/180023513-c8954744-7164-4c10-86d5-0fa0205de731.png)
 
+##[Project 5: Analyzing the Impact of Education on Voter Turnout in MA & NY Counties](https://github.com/jrlemarr/IS843_Project/blob/main/Analyzing_impact_of_education_on_voter_turnout.pdf)
+- This project aims at shedding some light on the issue of disparity between voter turnout and education level. Using Big Data tools, our team determined  voter turnout disparity between households who have completed varying degrees of education.
+- Tools: PySpark, SQL, Virtual Machine instance, Google Big Query, Virtual Machine Jupyter notebook
+
 ## More Projects
 - Here is a [link](https://github.com/jrlemarr/Personal_Projects) of personal analytics-related projects I completed outside of school.
 Tools: Tableau/SQL/Google Colaboratory Notebook
