@@ -28,6 +28,7 @@ More importantly, I hope this repository can help you in your personal and profe
 ## [Project 5: Analyzing the Impact of Education on Voter Turnout in MA & NY Counties](https://github.com/jrlemarr/IS843_Project/blob/main/Analyzing_impact_of_education_on_voter_turnout.pdf)
 - This project aims at shedding some light on the issue of disparity between voter turnout and education level. Using Big Data tools, our team determined  voter turnout disparity between households who have completed varying degrees of education.
 - Tools: PySpark, SQL, Virtual Machine instance, Google Big Query, Virtual Machine Jupyter notebook
+ ![image](https://user-images.githubusercontent.com/86937302/180791330-cd433f77-f4be-4f9a-8ad3-1aadbeb58344.png)
 
 ## More Projects
 - Here is a [link](https://github.com/jrlemarr/Personal_Projects) of personal analytics-related projects I completed outside of school.
