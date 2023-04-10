@@ -26,6 +26,11 @@ A portfolio of all the projects I have done regarding data analytics skills; thi
 - Tools: PySpark, SQL, Virtual Machine instance, Google Big Query, Virtual Machine Jupyter notebook
  ![image](https://user-images.githubusercontent.com/86937302/180791330-cd433f77-f4be-4f9a-8ad3-1aadbeb58344.png)
 
+## [Project 6: Financial and Accounting Analytics of Stock Returns During Market Shock of Early 2022](https://github.com/jrlemarr/BA870/blob/main/BA870%20Project%20-%20Jacinto%20Lemarroy.pdf)
+- This project covered a financial analysis of the Russell 3000 index stock returns. The Russell 3000 measures the performance of the largest 3,000 U.S. companies representing approximately 97% of the investable U.S. equity market. The data used was a sample of a large set of U.S. companies during the "Stock Market Shock" of early 2022. First, we collected stock data from multiple datasets from the WRDS website. Then, we collected variables such as stock returns, financial ratios, Fama-French factor return data, and industry identifiers, amongst other variables. Next, we determined the risk exposures of the stocks by calculating the Fama-French exposures: market risk exposure, size risk exposure, and value/distress risk exposure. We also calculated financial ratios and industry indicators and handled missing values and outliers throughout the analysis. We used the average value for numeric columns to deal with missing values wherever necessary. For outliers, we winsorized the data. Finally, we ran four regressions based on our previous categories: risk, financial characteristics, industry dummies, and a combined regression.
+- Tools: Python/Google Colaboratory Notebook
+ ![image](https://github.com/jrlemarr/BA870/blob/main/BA870_image.png)
+
 ## More Projects
 - Here is a [link](https://github.com/jrlemarr/Personal_Projects) of personal analytics-related projects I completed outside of school.
 Tools: Tableau/SQL/Google Colaboratory Notebook
