@@ -25,7 +25,7 @@ A portfolio of all the projects I have done regarding data analytics skills; thi
 ![Capstone-pic](https://user-images.githubusercontent.com/86937302/180023513-c8954744-7164-4c10-86d5-0fa0205de731.png)
 
 ## [Project 5: Analyzing the Impact of Education on Voter Turnout in MA & NY Counties](https://github.com/jrlemarr/IS843_Project/blob/main/Analyzing_impact_of_education_on_voter_turnout.pdf)
-- Background/Objective: This project aims to shed some light on the disparity between voter turnout and education level. Using Big Data tools, our team determined voter turnout disparity between households who have completed varying degrees of education.
+- Background/Objective: This project aims to shed light on the disparity between voter turnout and education level. Using Big Data tools, our team determined voter turnout disparity between households who have completed varying degrees of education.
 - Tools: Google Cloud Platform(Virtual Machine instance, BigQuery, Jupyter notebook)/PySpark/SQL
  ![image](https://user-images.githubusercontent.com/86937302/180791330-cd433f77-f4be-4f9a-8ad3-1aadbeb58344.png)
 
