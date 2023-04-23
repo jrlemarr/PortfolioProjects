@@ -15,7 +15,7 @@ A portfolio of all the projects I have done regarding data analytics skills; thi
 <img width="468" alt="HR graph" src="https://user-images.githubusercontent.com/86937302/180020393-a4f08645-3ff4-4534-b301-343d361b519e.png">
 
 ## Project 3: Predicting Members Most Likely Resistant to the COVID Vaccination
-Background/Objective: The goal of the project was to predict Humana members most likely resistant to the COVID vaccination. Data collected was given by insurance company, Humana, including 367 features. We performed exploratory data analysis, data cleaning, and implemented LightGBM, Random Forest, and XGBoost models to predict hesitant Humana members. Finally, we recommended targeted plans to drive vaccination among the sub-segments of hesitant members based on data insights. More detailed information regarding the project is confidential due to the nature of the company.
+- Background/Objective: The goal of the project was to predict Humana members most likely resistant to the COVID vaccination. Data collected was given by insurance company, Humana, including 367 features. We performed exploratory data analysis, data cleaning, and implemented LightGBM, Random Forest, and XGBoost models to predict hesitant Humana members. Finally, we recommended targeted plans to drive vaccination among the sub-segments of hesitant members based on data insights. More detailed information regarding the project is confidential due to the nature of the company.
 - Tools: Python(Pandas, matplotlib, seaborn, numpy, scikit-learn)/Google Colaboratory Notebook/Google Cloud Platform (BigQuery/SQL
 
 ## [Project 4: Drought Impact on Maple Syrup Production](https://github.com/jrlemarr/Capstone_Project/blob/main/Team%20B4%20-%20Final%20Report.pdf)
