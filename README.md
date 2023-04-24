@@ -29,7 +29,7 @@ A portfolio of all the projects I have done regarding data analytics skills; thi
 - Tools: Google Cloud Platform(Virtual Machine instance, BigQuery, Jupyter notebook)/PySpark/SQL
  ![image](https://user-images.githubusercontent.com/86937302/180791330-cd433f77-f4be-4f9a-8ad3-1aadbeb58344.png)
 
-## [Project 6: Financial and Accounting Analytics of Stock Returns During Market Shock of Early 2022](https://github.com/jrlemarr/BA870/blob/main/BA870%20Project%20-%20Jacinto%20Lemarroy.pdf)
+## [Project 6: Financial and Accounting Analytics of Stock Returns During Market Shock of Early 2022](https://github.com/jrlemarr/BA870/blob/main/Project_Jacinto_Lemarroy.ipynb)
 - Background/Objective: As part of a financial analysis project, I conducted an in-depth study of the Russell 3000 index stock returns. This index measures the performance of the largest 3,000 U.S. companies, representing around 97% of the investable U.S. equity market. The study was conducted using a sample of data from a large set of U.S. companies during the "Stock Market Shock" of early 2022. By analyzing this data, I gained valuable insights into the behavior of the U.S. equity market during times of extreme volatility and was able to draw conclusions about how investors can best navigate these conditions.
 - Tools: Google Colaboratory Notebook/Python(Pandas, matplotlib, seaborn, numpy, scikit-learn)
  ![image](https://github.com/jrlemarr/BA870/blob/main/BA870_image.png)
